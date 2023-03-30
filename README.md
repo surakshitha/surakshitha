@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Surakshitha</h1>
+<h1 align="center">Hi 👋, I'm Su</h1>
 
 - 🔭 I’m currently working on a react project on **Washington Metro Trains**
 - 🌱 I’m currently learning **Vue.js, Android dev**
