@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Su</h1>
 
-- 🔭 I’m currently working on a react project on **Washington Metro Trains**
+- 🔭 I'm currently working on my portfolio website
 - 🌱 I’m currently learning **Vue.js, Android dev**
-- 🤝 I’m looking for help **finding a full time Software developer job, interviews with constructive feedback**
 - 👨‍💻 All of my projects are available at [https://github.com/surakshitha](https://github.com/surakshitha-suresh)
-- 💬 Ask me about **IT & Life Sciences, Javascript frameworks**
+- 💬 Ask me about **Frontend development and microservices **
 - 📫 Reach me at **suraksha.s09@gmail.com**, Connect with me on [Linkedin](https://www.linkedin.com/in/surakshitha-suresh/)
 - 📄 Know my professional experiences [Link to CV](https://github.com/surakshitha/resume/blob/main/Surakshitha%20Suresh.pdf)
-- ⚡ Fun fact **I'm an avid artist, I love expressing myself creatively through painting 🎨🖌️**
+- ⚡ Fun fact **I'm an avid artist. I ship many art pieces on my etsy shop🎨🖌️**
 
 
 <p align="left">Skills:</p>
